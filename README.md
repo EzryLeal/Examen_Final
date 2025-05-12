@@ -73,22 +73,33 @@ El usuario puede utilizar diversos comandos como:
 
 ## Inicio en Consola
 ![image](https://github.com/user-attachments/assets/234f952b-5b2c-4db4-b4f7-f14718dfa699)
+
 ## Ingreso de Nodos 
+
 *En la consola*
 
 ![image](https://github.com/user-attachments/assets/e76a0e4a-ba9f-4516-8767-c77968839b16)
+
 ## Eliminacion de Nodo
+
 Al visualizar el arbol completo, y eliminar el nodo deseado, se vuelve a actualizar el arbol
 
 ![image](https://github.com/user-attachments/assets/ba5563bf-400a-4f97-840c-74292fd0a59d)
+
 **Luego de la eliminacion del nodo**
+
 ## Continuar
+
 Continuamos agregando los numeros a nuetro arbol
 
 ![image](https://github.com/user-attachments/assets/b20173ff-eb07-4c22-a67d-c8d78effb65f)
+
 ## Finalizar
+
 Finalizamos el programa con *-1* o con *exit*
+
 ## 📋 *Ejecucion del Programa*
+
 **Descargar del codigo** El cual cuenta con el nombre *AVLMain*
 
 **Ejecucion del Codigo** En la consola lectora de Java.
