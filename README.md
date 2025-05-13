@@ -100,8 +100,12 @@ Finalizamos el programa con *-1* o con *exit*
 
 ## 📋 *Ejecucion del Programa*
 
-**Descargar del codigo** El cual cuenta con el nombre *AVLMain*
+**Descargar del codigo** El cual cuenta con el nombre *AVLMain.java*
 
 **Ejecucion del Codigo** En la consola lectora de Java.
 
 **Inicio del Codigo** Donde iniciamos la interaccion con el codigo y el ingreso de nodos.
+
+## Visualiza el video en Youtube
+
+**https://youtu.be/qmjVBIIL4ZY**
